@@ -5,7 +5,6 @@ public class Main {
      * Skriver ut meny när användare behöver göra en val
      */
     public static void meny() {
-        Scanner in = new Scanner(System.in);
         System.out.println("Choose one of these alternatives : " +
                 "\n1. Volume of sphere" +
                 "\n2. Volume of cylinder " +
